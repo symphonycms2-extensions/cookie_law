@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="bitly" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Cookie Law</name>
+	<description>Symphony CMS extension for implementing de EU E-Privacy directive</description>
+	<repo type="github">https://github.com/remie/cookie_law</repo>
+	<url type="discuss">http://symphony-cms.com/404/</url>
+	<types>
+		<type>Workflow</type>
+	</types>
+	<authors>
+		<author>
+			<name github="remie">Remie Bolte</name>
+			<website>https://github.com/remie</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1.0" date="2012-10-06" min="2.3" max="2.3.x" />
+	</releases>
+</extension>
